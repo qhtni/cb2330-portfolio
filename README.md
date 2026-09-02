@@ -1,1 +1,1 @@
-# CB2330
+Session 01 exercise
