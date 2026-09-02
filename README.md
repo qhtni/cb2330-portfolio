@@ -1,1 +1,1 @@
-Session 01 exercise
+The course CB2330 at KTH
